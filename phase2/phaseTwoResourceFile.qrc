@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>circleIcon.png</file>
+        <file>deleteIcon.png</file>
+        <file>freeHandIcon.png</file>
+        <file>horizontalLinesIcon.PNG</file>
+        <file>lineIcon.png</file>
+        <file>rectangleIcon.png</file>
+        <file>openIcon.png</file>
+        <file>saveIcon.png</file>
+        <file>piSymbol.png</file>
+        <file>thethaSymbol.png</file>
+        <file>omegaSymbol.png</file>
+        <file>percentageSymbol.png</file>
+        <file>deltaSymbol.png</file>
+        <file>alphaSymbol.png</file>
+        <file>betaSymbol.png</file>
+        <file>gammaSymbol.png</file>
+        <file>hashSymbol.png</file>
+        <file>infiniteSymbol.png</file>
+        <file>integralSymbol.png</file>
+        <file>lembdaSymbol.png</file>
+        <file>rootSymbol.png</file>
+        <file>crossIcon.png</file>
+        <file>leftBracketSymbol.png</file>
+        <file>rightBracketSymbol.png</file>
+        <file>mathBoard.jpg</file>
+        <file>bgImage.jpg</file>
+        <file>backGroundImage.jpg</file>
+        <file>bgImage1.png</file>
+        <file>imageIcon.png</file>
+        <file>groupIcon.png</file>
+        <file>ungroupIcon.png</file>
+        <file>submattionSymbol.png</file>
+    </qresource>
+</RCC>
