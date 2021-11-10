@@ -1,6 +1,6 @@
 # Digital Educational Tool
 
-Tool is build for Mathematics teachers who want to teach chemistry in a simple and professional manner. User can use this tool to show the power of mathematics using mathematic Symbols and explaning concept using diagrams which user don't need to draw themself.
+Tool is build for Mathematics teachers who want to teach Mathematics in a simple and professional manner. User can use this tool to show the power of mathematics using mathematic Symbols and explaning concept using diagrams which user don't need to draw themself.
 
 This tool provide various facilities and tools like grouping,ungrouping,resize components,insert images,insert page,save/open files to explain different concept without deleting previous data and concepts.
 
